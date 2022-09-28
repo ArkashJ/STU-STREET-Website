@@ -10,7 +10,7 @@ import battery from "../assets/battery.png";
 import bufc from "../assets/bufc.png";
 import busportb from "../assets/busportb.png";
 import qst from "../assets/qst.png";
-import igpage from "../assets/igPage.png";
+import igpage from "../assets/igpage.png";
 
 const Values = () => {
 
