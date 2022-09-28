@@ -1,0 +1,73 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Avro:wght@400;500;600;700;800;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Aladin:wght@400;500;600;700;800;&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-black-gradient {
+    background: linear-gradient(
+      144.39deg,
+      #ffffff -278.56%,
+      #6d6d6d -78.47%,
+      #11101d 91.61%
+    );
+  }
+
+.bg-blue-gradient {
+    background: linear-gradient( rgba(188, 165, 255, 0), #214d76 50%);
+}
+
+
+
+.test2{
+    
+    background-color: rgb(225 29 72);
+}
+
+.testImg{
+    mix-blend-mode: multiply;
+}
+
+.test3{
+    
+    background-color: rgb(192 38 211);
+}
+
+.test4{
+    
+    background-color: rgb(14 165 233);
+}
+
+h1, h3{
+    font-family: 'Aladin', 'sans-serif';
+}
+
+.podcast-title{
+    font-family: 'Aladin', 'sans-serif';
+}
+
+.podcast-images{
+    height: 190px;
+    width: 290px;
+    margin-left: 18px;
+    border-radius: 12px 12px 12px 12px;
+}
+
+.GenreText{
+    font-family: 'Aladin', 'sans-serif';
+}
+
+.AboutText{
+    font: 'Poppins', 'sans-serif';
+    letter-spacing: -0.05rem;
+}
+
+.AboutText1{
+    color: "darkgrey";
+}
+
+.AboutContent{
+    font: 'Poppins', 'sans-serif';
+}
